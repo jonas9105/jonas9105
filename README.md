@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jonas9105
+- 👀 I’m interested in creating better tools for musicicans, labels, distributors, and other businesses.
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking to collaborate on music distribution services and tools.
+- 📫 How to reach me: Email me at jonas@antijoy.club
